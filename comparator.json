@@ -1,0 +1,15 @@
+{
+  "challenge_module": "Kaprekar4.problem",
+  "solution_module": "Kaprekar4.solution",
+  "theorem_names": [
+    "thm_structural",
+    "cor_length",
+    "cor_prime"
+  ],
+  "permitted_axioms": [
+    "propext",
+    "Quot.sound",
+    "Classical.choice"
+  ],
+  "enable_nanoda": false
+}
